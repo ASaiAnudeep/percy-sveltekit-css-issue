@@ -1,0 +1,1 @@
+<span class="text-6xl font-bold text-blue-700 flex justify-center items-center h-screen">Child</span>
